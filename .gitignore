@@ -1,2 +1,16 @@
-/node_modules
-.env.local
+# Created by http://www.gitignore.io
+
+### Linux ###
+*~
+
+# KDE directory preferences
+.directory
+
+/var/cache/*
+!var/cache/.gitkeep
+
+
+### Projeto1 ###
+
+*.env.local
+/node_modules/
